@@ -1,6 +1,5 @@
 # Data-Structures-and-Algorithms
 数据与算法作业 - VS2015工程
-
 OJ网址：http://lambda.cool/oj/index/
 ----------------------------------------------------------------------------------------------------------------------------------
 Problem  22  :   实验一：卡迈克尔数 (Carmichael Number) OJ网址：http://lambda.cool/oj/problem/22
